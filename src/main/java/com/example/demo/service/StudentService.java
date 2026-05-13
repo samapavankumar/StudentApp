@@ -17,7 +17,7 @@ public class StudentService {
         if (marks >= 35) {
             return name + " passed with " + marks + " marks";
         } else {
-            return name + " failed with " + marks + " marks";
+            return name + " failed with " + marks + " marks"+ " Pora Bayataki";
         }
     }
 } 
